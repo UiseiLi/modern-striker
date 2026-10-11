@@ -1,0 +1,3 @@
+d1a27264c69269d280eb640bf757b8fe6b2437da86992d62fcb26cb9cec768dc  modern-striker-1.0.0-source.zip
+f81805a04ba5dcadd5e74b28eb6937f2478de226bd4045aeec28eeaa945daea8  现代突击者_正式版.exe
+23b0c77e7ce68b162ee6f0e6557dedb9ded016f077ffd8ae2f1c808ee0e4f562  现代突击者游戏优化目录.pdf

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.godot/
+.env
+.env.*
+*.exe
+*.pck
+release-assets/
+tmp/
+verification/*.log
+verification/*_save.cfg
